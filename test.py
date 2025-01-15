@@ -9,6 +9,6 @@ def numara_vocale(text):
     return contor
 
 # Exemplu de utilizare a funcției
-text_input = " funcționalitatea."
+text_input = " s."
 numar_vocale = numara_vocale(text_input)
 print(f"Numărul de vocale din textul dat este: {numar_vocale}")
